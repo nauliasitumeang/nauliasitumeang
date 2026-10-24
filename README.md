@@ -13,16 +13,13 @@ I'm an Information Technology undergraduate at Universitas Sumatera Utara (batch
 
 #### 🛠️ Skills & Tools
 ##### **Security** 
-<img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
 
-###### **Systems** 
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+##### **Systems** 
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
 ##### **Security Platforms**
-<img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" />
+<img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" />
 
 ##### **Languages & Web**
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
@@ -42,14 +39,21 @@ I'm an Information Technology undergraduate at Universitas Sumatera Utara (batch
 
 #### 📫 Connect With Me
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/nauonaoo/)  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/naulia-situmeang-038b97300/)
+
+<br>
+
 Email: nauliasitumeang2501@gmail.com
 
 ---
 *Brewing knowledge in cybersecurity ☕*
+
+<br>
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nauliasitumeang/nauliasitumeang/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nauliasitumeang/nauliasitumeang/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nauliasitumeang/nauliasitumeang/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
+
+###
 
