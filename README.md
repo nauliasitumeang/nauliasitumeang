@@ -38,7 +38,7 @@ I'm an Information Technology undergraduate at Universitas Sumatera Utara (batch
 - [python-scripts](link): small scripts for security tasks
 
 #### 📫 Connect With Me
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/nauonaoo/)  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/naulia-situmeang-038b97300/) [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](nauliasitumeang2501@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/nauonaoo/)  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/naulia-situmeang-038b97300/) [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:nauliasitumeang2501@gmail.com)
 <br>
 
 ---
