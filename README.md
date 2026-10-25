@@ -38,22 +38,8 @@ I'm an Information Technology undergraduate at Universitas Sumatera Utara (batch
 - [python-scripts](link): small scripts for security tasks
 
 #### 📫 Connect With Me
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/nauonaoo/)  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/naulia-situmeang-038b97300/)
-
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/nauonaoo/)  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/naulia-situmeang-038b97300/) [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](nauliasitumeang2501@gmail.com)
 <br>
-
-Email: nauliasitumeang2501@gmail.com
 
 ---
 *Brewing knowledge in cybersecurity ☕*
-
-<br>
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nauliasitumeang/nauliasitumeang/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nauliasitumeang/nauliasitumeang/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nauliasitumeang/nauliasitumeang/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
