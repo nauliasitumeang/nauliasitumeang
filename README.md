@@ -34,8 +34,7 @@ I'm an Information Technology undergraduate at Universitas Sumatera Utara (batch
 - 🎨 UI/UX: "Lost and Found" web app concept, CodeFest 001
 
 #### 📌 Featured Repos
-- [ctf-writeups](https://github.com/nauliasitumeang/ctf-writeups): how I solved the challenges
-- [python-scripts](github.com/nauliasitumeang/ctf-writeups/tree/main/scripts): small scripts for security tasks
+- [ctf-writeups](https://github.com/nauliasitumeang/ctf-writeups): writeups and solver scripts for 4 CTF challenges
 
 #### 📫 Connect With Me
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/nauonaoo/)  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/naulia-situmeang-038b97300/) [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](https://mail.google.com/mail/?view=cm&fs=1&to=nauliasitumeang2501@gmail.com)
